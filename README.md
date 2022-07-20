@@ -10,6 +10,7 @@ The core of the gridfinity design is the 42x42x7mm grid format. The most basic c
 Every block fits into the z-shaped socket in a baseplate. The socket allows easy reconfiguration of blocks whilst preventing them becoming dislodged with a vertical lip.
 
 ![Block Profiles Image](images/diagram-profiles-blocks.jpeg)
+
 This diagram shows the profiles of a generic empty container block.
 It is 41.5mm square to allow some tolerance to fit within the baseplates.
 
@@ -22,6 +23,6 @@ The magnets are 6mm diameter, 2mm thickness. Blocks should ideally have holes in
 
 ### The Baseplates
 #### Design
-![Baseplate Profiles Image](images/diagram-profiles-blocks.jpeg)
+![Baseplate Profiles Image](images/diagram-profiles-baseplates.jpeg)
 
 
